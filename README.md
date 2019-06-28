@@ -15,7 +15,7 @@ public class Singer {
             cliente client = new cliente();
                
     }
-    
+ //anibal es guapo y maricon    
 }
 
 
